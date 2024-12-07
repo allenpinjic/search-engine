@@ -5,7 +5,7 @@
 <div align="center">
 <h1 align="center">Search Engine</h3>
   <p align="center">
-    A scalable search engine which can be utilized to search for websites on the Internet
+    A scalable search engine which can be utilized to find websites on the Internet
   </p>
   <p align="center">
     <strong>EECS 485</strong> <br> November - December 2024
