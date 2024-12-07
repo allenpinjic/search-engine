@@ -63,7 +63,8 @@
 
 ## Acknowledgments
 
-[EECS 485 Project 5 Description](https://eecs485staff.github.io/p5-search-engine/) <br>
+[EECS 485 Project 1 Description](https://eecs485staff.github.io/p1-insta485-static/) <br>
+[EECS 485 Project 2 Description](https://eecs485staff.github.io/p2-insta485-serverside/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -89,3 +90,7 @@
 [sqlite_url]: https://www.sqlite.org/
 
 [html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[html_url]: https://www.w3.org/TR/2011/WD-html5-20110405/
+
+[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[css_url]: https://developer.mozilla.org/en-US/docs/Web/CSS
