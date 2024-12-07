@@ -63,8 +63,7 @@
 
 ## Acknowledgments
 
-[EECS 485 Project 1 Description](https://eecs485staff.github.io/p1-insta485-static/) <br>
-[EECS 485 Project 2 Description](https://eecs485staff.github.io/p2-insta485-serverside/)
+[EECS 485 Project 5 Description](https://eecs485staff.github.io/p5-search-engine/) <br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
